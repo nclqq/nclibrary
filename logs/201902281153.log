@@ -1,0 +1,105 @@
+2019-02-28 11:53:57,463 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-02-28 11:53:57,472 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-02-28 11:54:41,366 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-02-28 11:55:04,029 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 11:55:06,335 - BrowserEngine - INFO - 最大化当前窗口
+2019-02-28 11:55:06,336 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-02-28 11:55:06,662 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:55:06,756 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:55:07,784 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:55:07,963 - HomePage - INFO - 信息填写成功
+2019-02-28 11:55:11,208 - DiscuzSearch - INFO - 管理员登录成功
+2019-02-28 11:55:18,405 - BasePage - INFO - 文本框中写入：5
+2019-02-28 11:55:21,549 - BasePage - INFO - 文本框中写入：8787878
+2019-02-28 11:55:24,951 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:55:29,744 - HomePage - INFO - 帖子信息填写成功
+2019-02-28 11:55:32,744 - DiscuzSearch - INFO - 帖子发表成功
+2019-02-28 11:55:35,883 - BasePage - INFO - 文本框中写入：888
+2019-02-28 11:55:39,265 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:55:40,082 - HomePage - INFO - 回复帖子信息填写成功
+2019-02-28 11:55:43,084 - DiscuzSearch - INFO - 回复帖子成功
+2019-02-28 11:55:47,227 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:55:47,227 - HomePage - INFO - 登出进行
+2019-02-28 11:55:47,227 - DiscuzSearch - INFO - 退出成功
+2019-02-28 11:55:57,228 - BrowserEngine - INFO - 关闭并退出当前窗口
+2019-02-28 11:55:59,539 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-02-28 11:55:59,539 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-02-28 11:56:03,464 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-02-28 11:56:06,636 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 11:56:07,763 - BrowserEngine - INFO - 最大化当前窗口
+2019-02-28 11:56:07,764 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-02-28 11:56:07,931 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:56:08,027 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:56:08,105 - TwoPage - INFO - 信息填写成功
+2019-02-28 11:56:12,179 - DiscuzTwoSearch - INFO - 管理员登录成功
+2019-02-28 11:56:17,993 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:56:25,215 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:56:32,636 - TwoPage - INFO - 删除帖子成功
+2019-02-28 11:56:38,637 - DiscuzTwoSearch - INFO - 删除帖子成功
+2019-02-28 11:56:39,162 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:56:45,319 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:56:45,641 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:57:22,467 - TwoPage - INFO - 登录管理中心成功
+2019-02-28 11:57:23,342 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:57:26,830 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:57:29,918 - BasePage - INFO - 在写入之前清空文本框
+2019-02-28 11:57:30,039 - BasePage - INFO - 文本框中写入：your
+2019-02-28 11:57:30,378 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:57:33,775 - TwoPage - INFO - 添加新版块成功
+2019-02-28 11:57:40,707 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:57:46,949 - DiscuzTwoSearch - INFO - 添加新版块成功
+2019-02-28 11:57:47,060 - BasePage - INFO - 文本框中写入：ncc
+2019-02-28 11:57:47,165 - BasePage - INFO - 文本框中写入：nccncc
+2019-02-28 11:57:47,240 - TwoPage - INFO - 信息填写成功
+2019-02-28 11:57:51,297 - DiscuzTwoSearch - INFO - 普通用户登录成功
+2019-02-28 11:57:51,881 - BasePage - INFO - 文本框中写入：177
+2019-02-28 11:57:55,071 - BasePage - INFO - 文本框中写入：555vgdfghjjknjgyuh
+2019-02-28 11:57:58,409 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:58:00,045 - TwoPage - INFO - 帖子信息填写成功
+2019-02-28 11:58:03,047 - DiscuzTwoSearch - INFO - 帖子发表成功
+2019-02-28 11:58:06,222 - BasePage - INFO - 文本框中写入：your_replay
+2019-02-28 11:58:09,582 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:58:09,881 - HomePage - INFO - 回复帖子信息填写成功
+2019-02-28 11:58:12,881 - DiscuzTwoSearch - INFO - 回复帖子成功
+2019-02-28 11:58:13,265 - DiscuzTwoSearch - INFO - 退出成功
+2019-02-28 11:58:23,265 - BrowserEngine - INFO - 关闭并退出当前窗口
+2019-02-28 11:58:25,550 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-02-28 11:58:25,551 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-02-28 11:58:29,554 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-02-28 11:58:33,532 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 11:58:34,672 - BrowserEngine - INFO - 最大化当前窗口
+2019-02-28 11:58:34,674 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-02-28 11:58:34,807 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:58:34,913 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:58:34,992 - ThreePage - INFO - 信息填写成功
+2019-02-28 11:58:35,509 - DiscuzThreeSearch - INFO - 登录成功
+2019-02-28 11:58:35,647 - BasePage - INFO - 文本框中写入：haotest
+2019-02-28 11:58:36,030 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:58:44,328 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:58:54,800 - ThreePage - INFO - 登出进行
+2019-02-28 11:59:04,800 - BrowserEngine - INFO - 关闭并退出当前窗口
+2019-02-28 11:59:07,067 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-02-28 11:59:07,068 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-02-28 11:59:10,253 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-02-28 11:59:12,703 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-02-28 11:59:13,817 - BrowserEngine - INFO - 最大化当前窗口
+2019-02-28 11:59:13,818 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-02-28 11:59:13,939 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:59:14,035 - BasePage - INFO - 文本框中写入：admin
+2019-02-28 11:59:14,105 - FourPage - INFO - 信息填写成功
+2019-02-28 11:59:18,180 - DiscuzFourSearch - INFO - 管理员登录成功
+2019-02-28 11:59:21,514 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:59:22,607 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:59:25,735 - BasePage - INFO - 文本框中写入：3333
+2019-02-28 11:59:25,834 - BasePage - INFO - 文本框中写入：4
+2019-02-28 11:59:25,915 - BasePage - INFO - 文本框中写入：5
+2019-02-28 11:59:29,151 - BasePage - INFO - 文本框中写入：dsjnfefjkajksddhjbffkjf
+2019-02-28 11:59:32,471 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:59:34,687 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:59:38,858 - BasePage - INFO - 获取截图并保存到 /screenshots
+2019-02-28 11:59:38,920 - FourPage - INFO - 第一个选项的名称：1.  4
+2019-02-28 11:59:38,980 - FourPage - INFO - 第一个选项的比例：100.00% (1)
+2019-02-28 11:59:39,028 - FourPage - INFO - 第二个选项的名称：2.  5
+2019-02-28 11:59:39,079 - FourPage - INFO - 第二个选项的比例：0.00% (0)
+2019-02-28 11:59:39,134 - FourPage - INFO - 投票的主题：3333
+2019-02-28 12:00:14,697 - BrowserEngine - INFO - 关闭并退出当前窗口

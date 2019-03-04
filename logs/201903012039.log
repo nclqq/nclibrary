@@ -1,0 +1,20 @@
+2019-03-01 20:39:26,980 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-03-01 20:39:26,981 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-03-01 20:39:51,646 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-03-01 20:39:53,487 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-03-01 20:39:53,487 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-03-01 20:39:59,422 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-03-01 20:40:05,888 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-03-01 20:40:05,895 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-03-01 20:40:15,615 - BrowserEngine - INFO - 开启谷歌浏览器
+2019-03-01 20:40:32,524 - BrowserEngine - INFO - 打开：http://127.0.0.1/forum.php
+2019-03-01 20:40:37,990 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-01 20:40:37,994 - BrowserEngine - INFO - 设置隐式等待10秒
+2019-03-01 20:40:38,703 - BasePage - INFO - 文本框中写入：admin
+2019-03-01 20:40:38,820 - BasePage - INFO - 文本框中写入：admin
+2019-03-01 20:40:39,038 - SearchPage - INFO - 信息填写成功
+2019-03-01 20:40:40,524 - BasePage - ERROR - <pageobjects.discuz_search_mail.SearchPage object at 0x00000292F89FDBE0> 不能找到 ('css selector', '.vwmy a') 元素
+2019-03-01 20:40:50,525 - BrowserEngine - INFO - 关闭并退出当前窗口
+2019-03-01 20:40:52,637 - BrowserEngine - INFO - 你选择了 Chrome 浏览器
+2019-03-01 20:40:52,638 - BrowserEngine - INFO - 测试的url是 ：http://127.0.0.1/forum.php
+2019-03-01 20:40:55,943 - BrowserEngine - INFO - 开启谷歌浏览器
